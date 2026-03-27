@@ -1,10 +1,11 @@
 {
-  "fen": "rnbqkb1r/pppppppp/5n2/8/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 1 2",
+  "fen": "rnbqkb1r/pppppppp/5n2/8/4P3/3P4/PPP2PPP/RNBQKBNR b KQkq - 0 2",
   "moves": [
     "e4",
-    "Nf6"
+    "Nf6",
+    "d3"
   ],
-  "move_count": 2,
+  "move_count": 3,
   "result": "*",
-  "last_updated": "2026-03-27T11:17:57.921991+00:00"
+  "last_updated": "2026-03-27T12:18:59.139677+00:00"
 }

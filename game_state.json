@@ -1,5 +1,5 @@
 {
-  "fen": "1nb1kb1r/1pp1Bp2/3pQ1p1/P2P2Np/P7/8/5PPP/RNr3KR w - - 2 18",
+  "fen": "1nb1kb1r/1pp1Bp2/3p2p1/P2P2Np/P7/8/5PPP/RNr1Q1KR b - - 3 18",
   "moves": [
     "e4",
     "Nf6",
@@ -34,9 +34,10 @@
     "bxa5",
     "Rxc2",
     "Kg1",
-    "Rc1+"
+    "Rc1+",
+    "Qe1"
   ],
-  "move_count": 34,
+  "move_count": 35,
   "result": "*",
-  "last_updated": "2026-03-27T12:21:35.301697+00:00"
+  "last_updated": "2026-03-27T12:21:37.623718+00:00"
 }
